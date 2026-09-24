@@ -199,7 +199,7 @@ Practical checklist for web security testing and learning.
 <a href="https://github.com/sourabhtomar">
 <img src="https://img.shields.io/badge/GitHub-sourabhtomar-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="[https://www.linkedin.com/in/sourabh-tomar/](https://www.linkedin.com/in/sourabh-tomar-616ba215b/)">
+<a href="https://www.linkedin.com/in/sourabh-tomar-616ba215b">
 <img src="https://img.shields.io/badge/LinkedIn-Sourabh_Tomar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
