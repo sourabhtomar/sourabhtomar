@@ -179,11 +179,18 @@ Practical checklist for web security testing and learning.
 <img src="https://img.shields.io/badge/API_Security-111827?style=for-the-badge"/>
 </p>
 
-<h2>📊 GitHub</h2>
+<h2>📊 GitHub Activity</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sourabhtomar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=7C3AED&text_color=C9D1D9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhtomar&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" height="170"/>
+  <a href="https://github.com/sourabhtomar?tab=repositories">
+    <img src="https://img.shields.io/badge/Public_Repositories-14-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sourabhtomar?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-44-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sourabhtomar">
+    <img src="https://img.shields.io/badge/Followers-1-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <h2>🤝 Connect</h2>
@@ -192,7 +199,7 @@ Practical checklist for web security testing and learning.
 <a href="https://github.com/sourabhtomar">
 <img src="https://img.shields.io/badge/GitHub-sourabhtomar-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://www.linkedin.com/in/sourabh-tomar/">
+<a href="[https://www.linkedin.com/in/sourabh-tomar/](https://www.linkedin.com/in/sourabh-tomar-616ba215b/)">
 <img src="https://img.shields.io/badge/LinkedIn-Sourabh_Tomar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
